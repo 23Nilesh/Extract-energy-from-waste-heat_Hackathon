@@ -1,7 +1,7 @@
 # INAE-SERB-Youth-Conclave 2022
->####Hackathon(2nd prize winner) 
->
->                     
+####Hackathon(2nd prize winner) 
+
+                     
 >INAE(Indian National Academy of Engineering) and SERB(Science and Engineering Research Board) conducted a youth conclave in which various hackathons were organised. 
 >
 >Among all 80 teams of hackthon our team of 5 members got 2nd prize. We were a group of 5 students of the institute, Indian institute Of Technology, Jodhpur.
